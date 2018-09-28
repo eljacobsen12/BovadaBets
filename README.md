@@ -1,0 +1,2 @@
+# BovadaBets
+Bovada bet class.
